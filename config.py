@@ -10,7 +10,7 @@ MODE = "AI" # <<< CHANGED from "RANDOM" to "AI"
 # Channels you want to monitor
 CHANNELS = ["tiktokleadsgen",
             "stockverified",
-            "-1002404659940" #Practicals
+            -1002404659940 #Practicals
             ]
 
 # Behaviour controls
